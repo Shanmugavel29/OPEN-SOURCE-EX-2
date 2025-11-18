@@ -1,6 +1,6 @@
 # OPEN-SOURCE-EX-2
-### Name:Swetha D
-### Reg No:212223040222
+### Name: SHANMUGAVEL RM
+### Reg No:212222230142
 # AIM
 To configure SELinux policies so that an Apache webserver running on a non-standard port (82) can properly serve existing HTML content from /var/www/html, ensuring the website becomes accessible without altering or removing any files.
 
@@ -54,7 +54,7 @@ Restart the Apache service and verify that the website loads correctly in a brow
 <img width="1062" height="353" alt="Screenshot 2025-09-22 163824" src="https://github.com/user-attachments/assets/78524493-bf9c-4aed-87bd-97be742d26ca" />
 <img width="734" height="508" alt="Screenshot 2025-09-23 102306" src="https://github.com/user-attachments/assets/cc5d1cb8-edb0-494f-b5dd-7d53ff7f9e60" />
 <img width="1146" height="488" alt="Screenshot 2025-09-23 102738" src="https://github.com/user-attachments/assets/72ef903a-eb1a-47c5-949b-dbc0c01ab147" />
-<img width="722" height="526" alt="Screenshot 2025-09-23 112604" src="https://github.com/user-attachments/assets/a62e3130-bbf3-45bb-bb06-6faaeee6b58f" />
+
 
 
 # RESULT
